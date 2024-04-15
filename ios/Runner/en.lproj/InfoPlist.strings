@@ -1,0 +1,2 @@
+NSCameraUsageDescription = "we use camera permissions to allow you upload your profile picture";
+NSPhotoLibraryUsageDescription = "we usephoto library permissions to allow you upload your profile picture";

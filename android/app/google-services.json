@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "728824742571",
+    "project_id": "don-bosco-2000-fdc87",
+    "storage_bucket": "don-bosco-2000-fdc87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728824742571:android:21c28b009102feba022dee",
+        "android_client_info": {
+          "package_name": "com.mycompany.adminapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728824742571-1m8c9o41e9vt82tpuiujmu03dopnngp2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.adminapp",
+            "certificate_hash": "29bc82eb2f719d6128794c32c6e46e6d30bb76ae"
+          }
+        },
+        {
+          "client_id": "728824742571-7hequh7i44ouddl1jqhqjsonbho8hkuk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.adminapp",
+            "certificate_hash": "dab4b876a4368aece3540f5004ccd248807bcfab"
+          }
+        },
+        {
+          "client_id": "728824742571-f3sgt5ulnc4bm5vnkucdualiltvktcus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6ZLs0ZasdohzUiEUCn3R2c1hiRaPQsHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728824742571-f3sgt5ulnc4bm5vnkucdualiltvktcus.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "728824742571-ipj2t3h7fls87fpkdtsq6fibtnucbbbm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.donBosco"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728824742571:android:58a4d54a30462ecf022dee",
+        "android_client_info": {
+          "package_name": "com.mycompany.donBosco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728824742571-6t3stcq03ou4cd8sud6h4app7qlmqgne.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.donBosco",
+            "certificate_hash": "dab4b876a4368aece3540f5004ccd248807bcfab"
+          }
+        },
+        {
+          "client_id": "728824742571-c9nf6r601tetkdufgd56addjsr08t079.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.donBosco",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "728824742571-mdiqlvu778hkjsivitvce30766jr639i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.donBosco",
+            "certificate_hash": "02b996e6eae61933f77745316e80e9bec84f3055"
+          }
+        },
+        {
+          "client_id": "728824742571-pttpa7f73k89or5htea3j3789kibo91h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.donBosco",
+            "certificate_hash": "29bc82eb2f719d6128794c32c6e46e6d30bb76ae"
+          }
+        },
+        {
+          "client_id": "728824742571-f3sgt5ulnc4bm5vnkucdualiltvktcus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6ZLs0ZasdohzUiEUCn3R2c1hiRaPQsHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728824742571-f3sgt5ulnc4bm5vnkucdualiltvktcus.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "728824742571-ipj2t3h7fls87fpkdtsq6fibtnucbbbm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.donBosco"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

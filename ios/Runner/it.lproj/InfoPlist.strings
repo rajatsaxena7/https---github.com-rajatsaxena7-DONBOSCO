@@ -1,0 +1,2 @@
+NSCameraUsageDescription = "utilizziamo le autorizzazioni della fotocamera per consentirti di caricare la tua immagine del profilo";
+NSPhotoLibraryUsageDescription = "utilizziamo le autorizzazioni della libreria di foto per consentirti di caricare la tua immagine del profilo";
